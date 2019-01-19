@@ -11,5 +11,9 @@ p {
     padding-left: 80px;
   }
   p { 
-    background-color: yellow;
+    background-color: red;
   }
+  <div class="intro">
+                <p id="firstname"> My name Eric Howard.</p>
+                <p id= "hometown">I live in East Saint Louis.</p>
+                
