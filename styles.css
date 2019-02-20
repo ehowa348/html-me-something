@@ -1,19 +1,23 @@
+body {
+  background-image: url("images/3.jpg");
+}
+
+h1 {
+  text-align:center;
+  color: red;
+  font-family: Veranda;
+}
+
+h3 {
+  color: red;
+  font-family: Arial;
+}
+
+h5 {
+  color: black;
+  font-family: teletype;
+}
+
 p {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-  }
-  div {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-  }
-  p { 
-    background-color: red;
-  }
-  <div class="intro">
-                <p id="firstname"> My name Eric Howard.</p>
-                <p id= "hometown">I live in East Saint Louis.</p>
-                
+  color:black;
+}
